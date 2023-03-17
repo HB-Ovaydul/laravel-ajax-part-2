@@ -1,0 +1,11 @@
+.table-img{
+    width: 70px;
+    height: 50px;
+    object-fit: cover;
+}
+.view_img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+}
